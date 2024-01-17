@@ -12,7 +12,7 @@ public class GoogleBillboard {
     		}
     		index++;
   	}
-		System.out.println(betterE.substring(prime, prime + 10));
+		System.out.println(Double.parseDouble(betterE.substring(prime, prime + 10)));
 	}
 	
 
